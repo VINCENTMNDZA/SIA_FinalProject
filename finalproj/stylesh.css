@@ -1,0 +1,266 @@
+body {
+    margin: 1;
+    font-family: 'Nunito', sans-serif;
+    color: white;
+    }
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 15px;
+}
+.l{
+    color: white;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1px;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 50px; 
+    height: auto;
+    margin-right: 20px; 
+}
+ /* Style for the container */
+ .container {
+    background-color: black;
+    width: ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 2200px; /* Adjust the height as needed */
+  }
+
+  /* Style for each div */
+  .box {
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+      display: flex;
+      background-image: url(pub.jpg);
+      width: 100%;
+    margin: 1px; /* Adjust the margin as needed */
+  }
+  .bx{
+      display: flex;
+      width: 10%;
+    height: 500px;
+    background-color: #000000; /* Adjust the background color as needed */
+    margin: 2px;
+  }
+  .x{
+      display: flex;
+      width: 80%;
+      height: 60%;
+      margin: 50px;
+  }
+  .g{
+    padding: 1%;
+    display: flex;
+    width: 100%;
+    height: 90%;
+    margin: -10px;
+}
+.a{
+    padding: 10px;
+    display: flex;
+    width: 60%;
+    height: 200px;
+    margin: 120px;
+  }
+  .b{
+    padding: 10px;
+    display: flex;
+    width: 100%;
+    height: 200px;
+    margin: 120px;
+  }
+
+  .bb{
+    
+    padding: 10px;
+    display: flex;
+    width: 70%;
+    height: 250px;
+    margin: 250px;
+}
+.heart{
+    
+        height: 100%;
+        display: flex;
+        margin: 1px;
+        padding: 15px;
+        width: 120%;
+}
+h1 {
+    
+    font-size: 24px;
+    line-height: 1.2;
+    letter-spacing: 4px;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 10px 0;
+}
+p {
+    color: #e7e7e7;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    text-align: justify;
+    margin: 20px;
+}
+  .image-container img {
+    width: 200px; 
+    margin-bottom: 10px; 
+  }
+.hart{
+    height: 100%;
+    display: flex;
+    margin: 10px;
+    width: 96%;
+}
+
+  .boxx {
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+      display: flex;
+      background-image: url(891412.png);
+      width: 100%;
+    margin: 10px; /* Adjust the margin as needed */
+  }
+  .boxxx {
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+      display: flex;
+      background-image: url(fire.jpg);
+      width: 100%;
+    margin: 10px; /* Adjust the margin as needed */
+  }
+  .boxxxx {
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+      display: flex;
+      background-image: url(bg.jpg);
+      width: 100%;
+    margin: 10px; /* Adjust the margin as needed */
+  }
+  .bxo {
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+      display: flex;
+      background-image: url(char.jpg);
+      width: 100%;
+    margin: 10px; /* Adjust the margin as needed */
+  }
+  .le {
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+      display: flex;
+      background-image: url(launch.jpg);
+      width: 100%;
+    margin: 10px; /* Adjust the margin as needed */
+  }
+  .lee {
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+      display: flex;
+      background-image: url(ff.jpg);
+      width: 100%;
+    margin: 10px; /* Adjust the margin as needed */
+  }
+  .leee {
+    justify-content: center;
+    background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+      display: flex;
+      background-image: url(launch.jpg);
+      width: 100%;
+    margin: 10px; /* Adjust the margin as needed */
+  }
+
+  div.gallery {
+    position: relative;
+    padding: 10px;
+    margin: 50px;
+    border: none;
+    float: right;
+    width: 1080px;
+  }
+ 
+  
+  div.gallery:hover {
+    border: none;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 5px;
+    text-align: center;
+  }
+
+  .abot {
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+      display: flex;
+      background-image: url(about.jpg);
+      width: 100%;
+    margin: 10px; /* Adjust the margin as needed */
+  }
+  .abott {
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+      display: flex;
+      background-image: url(hollow.jpg);
+      width: 100%;
+    margin: 10px; /* Adjust the margin as needed */
+  }
+
+  .abottt {
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+      display: flex;
+      background-image: url(car.jpg);
+      width: 100%;
+    margin: 10px; /* Adjust the margin as needed */
+  }
